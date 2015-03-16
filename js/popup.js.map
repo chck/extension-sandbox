@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "popup.js",
+  "sourceRoot": "",
+  "sources": [
+    "popup.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA;AAAA,EAAA,OAAO,CAAC,GAAR,CAAY,MAAZ,CAAA,CAAA;;AAAA,EACA,MAAM,CAAC,IAAI,CAAC,WAAZ,CAAwB,IAAxB,EAA8B,SAAC,GAAD,GAAA;WAC5B,KAAA,CAAM,GAAG,CAAC,KAAV,EAD4B;EAAA,CAA9B,CADA,CAAA;AAAA"
+}
